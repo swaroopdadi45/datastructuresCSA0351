@@ -2,7 +2,6 @@
 # Day 1 - Date = [08-08-2023]
 
 no.of programs done = 10
-
 no.of programs pending = 0
 
 1.Reversing a 32 but signed intergers 
@@ -18,9 +17,7 @@ no.of programs pending = 0
 
 # CSA0351-DataStructures
 # Day 2 - Date = [09-08-2023]
-
 no.of programs done = 10
-
 no.of programs pending = 0
 
 1.Liner search 
@@ -36,9 +33,7 @@ no.of programs pending = 0
 
 # CSA0351-DataStructures
 # Day 3 - Date = [10-08-2023]
-
 no.of programs done = 10
-
 no.of programs pending = 0
 
 1.STACK USING LINKED LIST
@@ -54,9 +49,7 @@ no.of programs pending = 0
 
 # CSA0351-DataStructures
 # Day 4 - Date = [11-08-2023]
-
 no.of programs done = 6
-
 no.of programs pending = 0
 
 1.AVL tree
@@ -68,9 +61,7 @@ no.of programs pending = 0
 
 # CSA0351-DataStructures
 # Day 5 - Date = [12-08-2023]
-
 no.of programs done = 6
-
 no.of programs pending = 0
 
 1.Array search - linear and binary
